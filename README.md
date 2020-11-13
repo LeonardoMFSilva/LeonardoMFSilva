@@ -1,4 +1,4 @@
-### E ai, borá codar?!
+### E ai, bora codar?!
 
 <!--
 **LeonardoMFSilva/LeonardoMFSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
