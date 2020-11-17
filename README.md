@@ -6,9 +6,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leeosilva/)](https://www.linkedin.com/in/leeosilva/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511958546019&text=Ol%C3%A1,%20vi%20seu%20contato%20pelo%20GitHub!)](https://api.whatsapp.com/send?phone=5511958546019&text=Ol%C3%A1,%20vi%20seu%20contato%20pelo%20GitHub!)
 
- Atualmente estou apredendo Java pela Generation!
- Procuro aprender e ensinar (assim que possível ou o pouco que sei 😄).
- Em breve Java Dev ⚡!
+- Atualmente estou apredendo Java pela Generation!
+- Procuro aprender e ensinar (assim que possível ou o pouco que sei 😄).
+- Em breve Java Dev ⚡!
 
 <!--
 **LeonardoMFSilva/LeonardoMFSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
