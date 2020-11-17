@@ -7,7 +7,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511958546019&text=Ol%C3%A1,%20vi%20seu%20contato%20pelo%20GitHub!)](https://api.whatsapp.com/send?phone=5511958546019&text=Ol%C3%A1,%20vi%20seu%20contato%20pelo%20GitHub!)
 
 - Atualmente estou apredendo Java pela Generation!
-- Procuro aprender e ensinar (assim que possível ou o pouco que sei 😄).
+- Procuro aprender e ensinar (ensinar assim que possível ou o pouco que sei 😄).
 - Em breve Java Dev ⚡!
 
 <!--
