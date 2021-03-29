@@ -7,7 +7,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511958546019&text=Ol%C3%A1,%20vi%20seu%20contato%20pelo%20GitHub!)](https://api.whatsapp.com/send?phone=5511958546019&text=Ol%C3%A1,%20vi%20seu%20contato%20pelo%20GitHub!)
 
 - Procuro aprender e ensinar (ensinar assim que possível ou o pouco que sei 😄).
-- Full Stack Java Jr Dev ⚡!
+- Full Stack Java Jr Dev at Bees Brasil :honeybee: :beers:!
 
 <!--
 **LeonardoMFSilva/LeonardoMFSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
